@@ -1,0 +1,214 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#27150B",
+            "lang-select-color": "#222829",
+            "bg-light": "#27150B",
+            "welcome-bonus-bg": "#27150B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#5c321b",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#D39813",
+            "text-head": "#27150B",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D39813",
+            "yellow": "#A24B01",
+            "yellow-button": "#D39813",
+            "button-text": "#ffffff",
+            "main-button-text": "#27150B",
+            "border-color": "#efefdc",
+            "casino-cards": "#27150B",
+            "bonus-border-head": "#27150B",
+            "bonus-border": "#ffffff",
+            "providers-back": "#27150B",
+            "faq-label": "#27150B",
+            "bg-footer": "#27150B",
+            "copyright": "#e7e7d5",
+            "starColor": "#A24B01",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4295"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4296",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Rodeoslot Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4297",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Rodeoslot"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Rodeoslot",
+                    "title": "Rodeoslot Casino — Bestes Online Casino Deutschland | 1500€ Bonus",
+                    "description": "Spielen Sie im Rodeoslot Casino Deutschland. Sichern Sie sich bis zu 1500€ Bonus + 250 Freispiele, 7600+ Slots & Live-Spiele. Schnelle Auszahlungen. Jetzt registrieren!\n",
+                    "canonical": "rodeoslot-online-de.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4298",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "rodeoslot-online-de.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4299"
+                },
+                "hero": {
+                    "title": "Das Führende Wild West Online Casino in Deutschland",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4300",
+                    "imageSizeModifier": -10,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4301",
+                    "mobileImageSizeModifier": -10,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Get",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "Suchen Sie nach einem erstklassigen Online Casino in Deutschland? Wir operieren unter einer anerkannten Lizenz mit zertifiziertem RNG, bieten sofortige Krypto-Auszahlungen und einen 24\/7 Support. Entdecken Sie, warum deutsche Spieler uns wählen:\n",
+                    "items": [
+                        "7600+ lizenzierte Spiele von NetEnt, Evolution und Pragmatic Play",
+                        "Bis zu 1500€ Willkommensbonus + 250 Freispiele für neue Spieler",
+                        "Blitzschnelle Auszahlungen via Krypto und E-Wallets unter 24 Stunden",
+                        "Wöchentliches Cashback von bis zu 25% durch unser VIP-Programm",
+                        "256-Bit-SSL-Verschlüsselung für 100% sichere Euro-Transaktionen"
+                    ],
+                    "advantagesAfterText": "Schließen Sie sich Tausenden zufriedener Spieler in ganz Deutschland an, die unsere fairen Spielbedingungen schätzen. Unser Support-Team steht Ihnen rund um die Uhr zur Verfügung.\n",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Rodeoslot App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4302",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Rodeoslot App",
+                    "mobileGooglePlayImageTitle": "Rodeoslot App",
+                    "mobileIosImageTitle": "Rodeoslot App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über Rodeoslot Casino",
+                        "description1": "Als erstklassige Plattform für deutsche Spieler bieten wir ein unvergleichliches Wild-West-Erlebnis. Mit über 7600 Spielen von Top-Providern haben wir uns als führende Casino-Destination etabliert, die Sicherheit und Spannung perfekt vereint.\n",
+                        "items": [
+                            "Erweiterung des Portfolios auf 7600+ zertifizierte Spiele",
+                            "Integration modernster Krypto-Zahlungen für schnelle Auszahlungen",
+                            "Einführung des exklusiven 10-stufigen VIP-Rodeo-Programms"
+                        ],
+                        "description2": "Wir operieren unter der gültigen Casino-Lizenz und garantieren höchste Sicherheitsstandards. Unsere Plattform nutzt 256-Bit-SSL-Verschlüsselung, während alle Spiele durch unabhängige Prüfer wie iTech Labs auf Fairness und RNG getestet werden.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4303",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Wir erweitern unser Angebot stetig um neue exklusive Titel für den deutschen Markt. Genießen Sie verantwortungsvolles Spielen mit unseren modernen Schutz-Tools. Melden Sie sich noch heute an und starten Sie Ihr ultimatives Casino-Abenteuer!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Umfassendes Spiele-Portfolio in Deutschland",
+                        "description": "<h2>Das ultimative Casino Spiele-Portfolio für deutsche Spieler<\/h2>\n<p>Willkommen in der faszinierenden Welt unseres Online Casinos, wo wir deutschen Spielern ein unvergleichliches Unterhaltungserlebnis im spannenden Wild-West-Stil bieten. Wir sind stolz darauf, eine der umfangreichsten und vielfältigsten Spielotheken auf dem Markt zu präsentieren. Mit einer beeindruckenden Auswahl von über 7600 erstklassigen Casinospielen setzen wir neue Maßstäbe in der digitalen Glücksspielbranche in Deutschland. Egal, ob Sie aus Berlin, Hamburg, München oder Frankfurt spielen, unsere Plattform ist perfekt auf die Bedürfnisse und Vorlieben unserer deutschen Community zugeschnitten. Wir arbeiten ausschließlich mit weltweit renommierten und lizenzierten Software-Providern zusammen, um Ihnen nicht nur höchste Qualität, sondern auch absolute Fairness und Transparenz bei jedem einzelnen Spin zu garantieren. Unsere Spielebibliothek wird kontinuierlich aktualisiert, sodass Sie immer Zugriff auf die neuesten und aufregendsten Veröffentlichungen haben.<\/p>\n\n<p>Um Ihnen dieses gigantische Portfolio zur Verfügung zu stellen, haben wir strategische Partnerschaften mit mehr als 50 führenden Entwicklerstudios der Branche geschlossen. Dazu gehören Giganten wie Pragmatic Play, NetEnt, Evolution Gaming, Play'n GO, Hacksaw Gaming und Nolimit City. Diese Premium-Anbieter sind bekannt für ihre innovativen Spielmechaniken, atemberaubenden Grafiken und kristallklaren Soundeffekte, die Sie direkt in die goldene Ära des Wilden Westens versetzen. Jedes Spiel in unserem Casino ist mit einem zertifizierten Zufallsgenerator (RNG) ausgestattet, der von unabhängigen Prüfinstituten wie eCOGRA und iTech Labs strengen Tests unterzogen wurde. Dies stellt sicher, dass alle Spielergebnisse absolut zufällig sind und eine faire Auszahlungsquote (RTP) bieten, die bei vielen unserer Titel weit über dem Branchendurchschnitt von 96% liegt. So kombinieren wir maximalen Spielspaß mit verifizierter Sicherheit für unser deutsches Publikum.<\/p>\n\n<h3>Umfangreiche Spielautomaten und Video-Slots<\/h3>\n<p>Unsere riesige Auswahl an Spielautomaten bildet das Herzstück unseres Casinos und bietet für jeden Geschmack genau das Richtige. Von klassischen Früchte-Slots über hochmoderne Video-Spielautomaten bis hin zu actiongeladenen 3D-Abenteuern – bei uns finden Sie alles. Besonders beliebt bei unseren deutschen Spielern sind Titel mit innovativen Features wie Megaways, herabfallenden Symbolen (Cascading Reels) und expandierenden Wilds. Durch unsere intuitive Suchfunktion und die übersichtlichen Kategorien können Sie mühelos durch tausende von Titeln navigieren und Ihre persönlichen Favoriten in Sekundenschnelle finden. Darüber hinaus bieten wir Ihnen die Möglichkeit, fast alle unsere Spielautomaten in einem kostenlosen Demo-Modus zu testen, bevor Sie echtes Geld einsetzen.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways-Slots:<\/strong> Genießen Sie revolutionäre Spielautomaten mit bis zu 117.649 Gewinnwegen. Spiele wie The Dog House Megaways oder Great Rhino Megaways bieten dynamische Walzen und enorme Multiplikatoren für gigantische Auszahlungen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus-Buy-Funktion:<\/strong> Für Spieler, die nicht auf Freispiele warten möchten, bieten wir zahlreiche Titel mit Bonuskauf-Option. Kaufen Sie sich direkt in die lukrativsten Bonusrunden ein und maximieren Sie Ihre Gewinnchancen bei Spielen von Nolimit City und Hacksaw Gaming.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpot-Spielautomaten:<\/strong> Jagen Sie den lebensverändernden Gewinnen hinterher! Unsere progressiven Jackpots wachsen mit jedem Einsatz netzwerkweit an und bieten Preispools, die oft in die Millionen Euro gehen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wild-West-Exklusivtitel:<\/strong> Passend zu unserem Thema präsentieren wir eine spezielle Kategorie mit Western-Slots. Erleben Sie packende Duelle, reiten Sie durch die Prärie und knacken Sie die Tresore in Titeln wie Dead or Alive 2 und Wild West Gold.<\/li>\n<\/ul>\n\n<h3>Welche Auszahlungsquoten (RTP) bieten die Spiele in unserem Casino?<\/h3>\n<p>Wir bieten eine durchschnittliche Auszahlungsquote (RTP) von über 96,5% für unser gesamtes Slot-Portfolio, wobei einige Tischspiele sogar Werte von bis zu 99,5% erreichen. Alle Quoten sind transparent einsehbar und zertifiziert.<\/p>\n<p>Wir legen größten Wert auf Transparenz und Fairness, weshalb die Return-to-Player-Raten bei all unseren Spielen streng kontrolliert werden. Die RTP gibt an, welcher Prozentsatz der Einsätze langfristig an die Spieler zurückfließt. Bei unseren Premium-Slots von NetEnt oder Pragmatic Play können Sie sich auf konstant hohe Quoten verlassen, die Ihre Gewinnchancen erheblich verbessern. Besonders bei unseren Tischspielen und im Live-Segment profitieren Sie von einem verschwindend geringen Hausvorteil, der es Ihnen ermöglicht, mit der richtigen Strategie langfristig erfolgreich zu sein.<\/p>\n\n<h3>Klassische Tischspiele für strategische Denker<\/h3>\n<p>Für Liebhaber des traditionellen Casino-Flairs bieten wir eine exzellente Auswahl an computergesteuerten Tischspielen. Diese Titel sind perfekt für deutsche Spieler, die strategisches Denken bevorzugen und das Tempo des Spiels selbst bestimmen möchten. Unsere Software-Tischspiele zeichnen sich durch fotorealistische Grafiken, authentische Soundeffekte und flüssige Animationen aus, die die Atmosphäre einer echten Spielbank perfekt auf Ihren Bildschirm übertragen. Ob Sie die Kessel beim Roulette beobachten oder beim Blackjack die perfekte 21 anstreben – unsere Tischspiele liefern höchste Qualität. Wir bieten Tische mit unterschiedlichsten Limits an, sodass sowohl vorsichtige Anfänger als auch erfahrene High-Roller den perfekten Tisch für ihr Budget finden.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #d49b1a;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Spiel<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #160a04;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.10€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #221106;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #160a04;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1.00€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #221106;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.01€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">250€<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Das authentische Live Casino Erlebnis in Deutschland<\/h3>\n<p>Wenn Sie die unvergleichliche soziale Interaktion und die Spannung einer echten Spielbank suchen, ist unser Live Casino die perfekte Wahl. Ausgestattet von den Branchenführern Evolution Gaming und Pragmatic Play Live, streamen wir über 760 Live-Tische in hochauflösender HD- und 4K-Qualität direkt auf Ihr Gerät. Unsere professionellen, oft deutschsprachigen Dealer und Croupiers leiten die Spiele mit höchster Expertise und Charme. Durch interaktive Chat-Funktionen können Sie in Echtzeit mit den Dealern und anderen Spielern am Tisch kommunizieren. Die hochmodernen Studios sind rund um die Uhr geöffnet, sodass Sie zu jeder Tages- und Nachtzeit Platz nehmen können. Mehrere Kameraeinstellungen, Slow-Motion-Wiederholungen und detaillierte Spielstatistiken sorgen für ein immersives Erlebnis, das keine Wünsche offenlässt.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Wählen Sie aus Varianten wie Lightning Roulette mit extremen Multiplikatoren bis zu 500x, Immersive Roulette für kinoreife Kameraperspektiven oder dem klassischen European Roulette mit einem RTP von 97,3%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Wir bieten exklusive VIP-Tische, Infinite Blackjack für unbegrenzt viele Spieler und Speed Blackjack für besonders schnelle Spielrunden. Die Dealer mischen die Karten transparent vor Ihren Augen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat & Sic Bo:<\/strong> Entdecken Sie die Faszination asiatischer Glücksspiele mit Baccarat Squeeze, No Commission Baccarat und actionreichem Super Sic Bo. Diese Spiele zeichnen sich durch rasante Action und einfache Regeln aus.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Innovative Game Shows:<\/strong> Erleben Sie Entertainment pur mit revolutionären Shows wie Crazy Time, Monopoly Live, Sweet Bonanza Candyland und Mega Wheel. Diese Formate kombinieren Casino-Action mit TV-Shows.<\/li>\n<\/ul>\n\n<h3>Mobiles Spielen in Perfektion für deutsche Nutzer<\/h3>\n<p>In der heutigen schnelllebigen Welt wissen wir, wie wichtig es ist, dass Sie Ihre Lieblingsspiele jederzeit und überall genießen können. Deshalb haben wir unsere gesamte Plattform vollständig für mobile Endgeräte optimiert. Egal, ob Sie ein iPhone, iPad oder ein Android-Smartphone nutzen – unser mobiles Casino passt sich automatisch an jede Bildschirmgröße an. Sie müssen keine zusätzliche App herunterladen, sondern können direkt über Ihren mobilen Browser auf über 7600 Spiele zugreifen. Die Ladezeiten sind extrem kurz und die hochauflösenden Grafiken kommen auch auf kleineren Displays perfekt zur Geltung. Sämtliche Funktionen, von der Einzahlung über die Beanspruchung des Willkommensbonus bis hin zur Kontaktaufnahme mit unserem Support-Team, stehen Ihnen mobil uneingeschränkt zur Verfügung. Erleben Sie nahtloses Glücksspiel beim Warten auf die Bahn in Berlin oder gemütlich auf der Couch.<\/p>\n\n<h3>Fokus auf Sicherheit und faire Spielbedingungen<\/h3>\n<p>Als vertrauenswürdiger Anbieter für den deutschen Markt legen wir allergrößten Wert auf den Schutz Ihrer Daten und Gelder. Unsere Plattform ist streng lizenziert und reguliert. Wir verwenden modernste 256-Bit-SSL-Verschlüsselungstechnologien, um sicherzustellen, dass jede einzelne Transaktion in Euro oder Krypto absolut manipulationssicher ist. Alle bei uns angebotenen Spiele werden regelmäßig von unabhängigen Testlabors wie eCOGRA auf ihre Zufälligkeit und Fairness hin überprüft. Diese strengen Audits garantieren, dass die angegebenen RTP-Werte (Return to Player) stets korrekt sind. Darüber hinaus fördern wir verantwortungsvolles Spielen und bieten unseren Kunden umfangreiche Tools zur Selbstlimitierung. Mit diesen Maßnahmen stellen wir sicher, dass Ihre Casino-Erfahrung bei uns nicht nur aufregend, sondern auch rundum sicher und geschützt ist. Treten Sie ein in die aufregende Welt des Rodeoslot Casinos und erleben Sie Spitzenklasse in Deutschland!<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Zahlungsmethoden & Boni für Deutsche Spieler",
+                        "description": "<h2>Sichere Zahlungen und exklusive Boni im Rodeoslot Casino<\/h2>\n<p>Ein reibungsloser, sicherer und extrem schneller Zahlungsverkehr ist das Rückgrat eines jeden Premium Online Casinos. Wir haben diesen Prozess für unsere deutschen Spieler bis zur Perfektion optimiert. Wir wissen, dass Sie keine Zeit verlieren möchten, wenn Sie echtes Geld einzahlen oder sich Ihre wohlverdienten Gewinne auszahlen lassen wollen. Deshalb bieten wir ein hochmodernes Kassensystem an, das speziell auf die Bedürfnisse und Vorlieben des deutschen Marktes zugeschnitten ist. Unsere Plattform akzeptiert eine breite Palette an vertrauenswürdigen Zahlungsmethoden – von klassischen Fiat-Optionen in Euro bis hin zu modernsten Kryptowährungen. Alle finanziellen Transaktionen werden durch fortschrittlichste Sicherheitsprotokolle und eine militärstarke 256-Bit-SSL-Verschlüsselung geschützt. So garantieren wir, dass Ihre sensiblen Bankdaten und persönlichen Informationen jederzeit vor unbefugtem Zugriff geschützt sind, egal ob Sie von München, Köln oder Berlin aus spielen.<\/p>\n\n<h3>Vielfältige und gebührenfreie Einzahlungsmethoden<\/h3>\n<p>Ihre Reise in den Wilden Westen unseres Casinos beginnt mit einer einfachen, sicheren und vor allem gebührenfreien Einzahlung. Wir haben die Mindesteinzahlung auf faire 20€ festgelegt, was es sowohl Gelegenheitsspielern als auch ambitionierten High-Rollern ermöglicht, bequem einzusteigen. Deutsche Spieler können aus etablierten Kreditkarten wie Visa und Mastercard wählen, die sofortige Gutschriften auf das Spielerkonto garantieren. Darüber hinaus unterstützen wir beliebte E-Wallets wie Skrill und Neteller, die für ihre blitzschnellen Transaktionen und hohe Sicherheit bekannt sind. Wenn Sie absolute Anonymität und dezentralisierte Zahlungen bevorzugen, ist unser Casino perfekt für Sie geeignet. Wir sind ein absolut krypto-freundliches Casino und akzeptieren Bitcoin, Ethereum, Litecoin, Dogecoin und Tether (USDT). Einzahlungen via Kryptowährung werden in der Regel innerhalb weniger Minuten auf der Blockchain bestätigt und sofort in Ihrem Casino-Wallet reflektiert.<\/p>\n\n<h3>Wie lange dauern Auszahlungen in unserem Casino?<\/h3>\n<p>Wir bearbeiten alle Auszahlungsanfragen von deutschen Spielern innerhalb von 0 bis 24 Stunden. Bei Nutzung von E-Wallets oder Kryptowährungen erhalten Sie Ihr Geld oft schon nach wenigen Minuten.<\/p>\n<p>Wir sind stolz darauf, eine der schnellsten Auszahlungsgeschwindigkeiten in der gesamten Branche anzubieten. Nach einer erfolgreichen Kontoverifizierung (KYC), die für Ihre Sicherheit obligatorisch ist und meist unter 12 Stunden abgeschlossen ist, geben wir Ihre Gelder umgehend frei. Krypto-Auszahlungen und E-Wallets sind die schnellsten Wege, um über Ihre Gewinne zu verfügen. Traditionelle Banküberweisungen können aufgrund der bankinternen Bearbeitungszeiten in Deutschland 1 bis 3 Werktage in Anspruch nehmen. Wir berechnen unsererseits keinerlei versteckte Gebühren für Ihre Abhebungen. Das tägliche Auszahlungslimit liegt bei großzügigen 1.000€, während Sie sich pro Monat bis zu 10.000€ auszahlen lassen können. Für unsere VIP-Spieler können diese Limits sogar noch deutlich angehoben werden.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #d49b1a;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Methode<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Dauer<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #160a04;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0-2 Std.<\/td>\n    <\/tr>\n    <tr style=\"background-color: #221106;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>E-Wallets<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0-12 Std.<\/td>\n    <\/tr>\n    <tr style=\"background-color: #160a04;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa \/ MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1-3 Tage<\/td>\n    <\/tr>\n    <tr style=\"background-color: #221106;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2-5 Tage<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Das gigantische Willkommensbonus-Paket<\/h3>\n<p>Wir möchten, dass Ihr Start in unserem Casino so lukrativ wie möglich ist. Deshalb haben wir ein spektakuläres Willkommenspaket geschnürt, das sich deutlich von der Konkurrenz in Deutschland abhebt. Neue Spieler können sich auf einen gewaltigen Bonus von bis zu 1.500€ sowie zusätzlich 250 Freispiele freuen. Dieses Paket ist darauf ausgelegt, Ihre Bankroll erheblich zu stärken und Ihnen ausgiebige Möglichkeiten zu geben, unser gigantisches Spiele-Portfolio von über 7600 Titeln risikofrei zu erkunden. Die Bonusgelder werden Ihrem Konto nach einer qualifizierenden Mindesteinzahlung von nur 20€ sofort gutgeschrieben. Unsere Umsatzbedingungen sind transparent und absolut fair gestaltet. Mit einem Standard-Wager von 35x auf den Bonusbetrag gehören wir zu den spielerfreundlichsten Plattformen auf dem Markt. Sie haben ausreichend Zeit, um die Bedingungen zu erfüllen und Ihre Bonusgelder in echtes, auszahlbares Geld umzuwandeln.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ersteinzahlungsbonus:<\/strong> Verdoppeln Sie Ihr Guthaben mit unserem großzügigen Match-Bonus. Zusätzlich erhalten Sie einen Schwung Freispiele für einige der beliebtesten Slots von Pragmatic Play und Play'n GO, um direkt durchzustarten.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Transparente Umsatzbedingungen:<\/strong> Der Bonusbetrag muss lediglich 35-mal umgesetzt werden, bevor eine Auszahlung beantragt werden kann. Dies ist ein extrem fairer Wert, der Ihnen realistische Chancen auf echte Gewinne bietet.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High-Roller-Optionen:<\/strong> Für Spieler, die gerne mit höheren Beträgen agieren, bieten wir spezielle High-Roller-Boni an, die noch massivere Bonusgelder auf Einzeltransaktionen gewähren und erweiterte Einsatzlimits ermöglichen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tägliche Missionen:<\/strong> In unserer speziellen Rodeo Arena können Sie jeden Tag neue Aufgaben erfüllen, um sofortige Belohnungen, zusätzliche Freispiele und lukrative Cash-Preise zu erhalten.<\/li>\n<\/ul>\n\n<h3>Exklusives VIP-Programm und wöchentliches Cashback<\/h3>\n<p>Unsere treuesten Spieler haben nur das Beste verdient. Deshalb laden wir Sie ein, Teil unseres exklusiven 10-stufigen VIP-Programms zu werden. Mit jedem Echtgeldeinsatz an unseren Spielautomaten oder im Live Casino sammeln Sie wertvolle Treuepunkte. Je mehr Punkte Sie generieren, desto höher steigen Sie in den VIP-Rängen auf. Jede neue Stufe schaltet noch bessere Privilegien frei. Dazu gehören höhere Auszahlungslimits, exklusive Einladungen zu speziellen VIP-Turnieren mit Preispools von über 50.000€, beschleunigte Abhebungen und personalisierte Geburtstagsgeschenke. Ein besonderes Highlight für unsere deutschen VIPs ist der Zugang zu einem persönlichen Account-Manager, der Ihnen rund um die Uhr per WhatsApp oder Telegram für alle Anliegen zur Verfügung steht. Das absolute Kronjuwel unseres Treueprogramms ist jedoch unser wöchentliches Cashback-System. Wir erstatten Ihnen jede Woche bis zu 25% Ihrer Nettoverluste zurück – komplett ohne Umsatzbedingungen, als echtes Geld direkt auf Ihr Konto.<\/p>\n\n<h3>Kundenservice und verantwortungsvolles Spielen<\/h3>\n<p>Ihre Zufriedenheit und Sicherheit haben für uns oberste Priorität. Sollten Sie jemals Fragen zu einer Einzahlung, einem Bonusangebot oder einem bestimmten Casinospiel haben, steht Ihnen unser hochprofessionelles Kundensupport-Team zur Verfügung. Der Support ist 24 Stunden am Tag, 7 Tage die Woche besetzt und kann bequem über die Live-Chat-Funktion auf unserer Website erreicht werden. Selbstverständlich bieten wir Unterstützung in deutscher Sprache an, um jegliche Kommunikationsbarrieren zu vermeiden. Alternativ können Sie uns jederzeit per E-Mail kontaktieren; wir garantieren eine schnelle Reaktionszeit. Neben exzellentem Service liegt uns auch Ihr Wohlergehen am Herzen. Glücksspiel soll stets Spaß machen und unterhaltsam bleiben. Deshalb bieten wir umfassende Tools zum verantwortungsvollen Spielen an. Sie können sich persönliche Einzahlungslimits, Verlustlimits oder Sitzungslimits setzen. Zudem besteht jederzeit die Möglichkeit, einen zeitweiligen Cool-off-Zeitraum oder einen vollständigen Selbstausschluss zu aktivieren. Wir kooperieren mit internationalen Hilfsorganisationen und setzen uns aktiv für ein sicheres Spielumfeld ein.<\/p>\n\n<h3>Spannende Turniere und die exklusive Rodeo Arena<\/h3>\n<p>Um das Spielerlebnis auf ein noch höheres Level zu heben, veranstalten wir regelmäßig spannende Casino-Turniere und packende Netzwerk-Aktionen. In Zusammenarbeit mit Top-Providern wie Pragmatic Play (Drops & Wins) oder Spinomenal bieten wir unseren deutschen Spielern die Chance, sich einen Teil von gigantischen monatlichen Preispools zu sichern, die oft mehrere Millionen Euro betragen. Nehmen Sie an unseren wöchentlichen Slot-Rennen teil, messen Sie sich mit anderen Spielern auf der Bestenliste und gewinnen Sie lukrative Geldpreise, neueste Gadgets oder Tausende von Freispielen. Ein weiteres einzigartiges Feature unseres Casinos ist die sogenannte 'Rodeo Arena'. Hierbei handelt es sich um ein innovatives Gamification-System. Sie können tägliche und wöchentliche Missionen abschließen – wie beispielsweise das Erreichen eines bestimmten Multiplikators in einem Slot oder das Gewinnen von drei aufeinanderfolgenden Blackjack-Händen –, um Münzen zu sammeln. Diese Münzen können anschließend in unserem exklusiven Bonus-Shop gegen maßgeschneiderte Boni, Freispiele ohne Umsatzbedingungen oder Echtgeld-Cashback eingetauscht werden. Dieses Belohnungssystem garantiert, dass Ihre Treue und Aktivität in unserem Casino konstant honoriert wird.<\/p>\n\n<p>Zusammenfassend lässt sich sagen, dass wir unseren deutschen Spielern nicht nur eine der größten Spielauswahlen der Branche bieten, sondern auch eine der sichersten und lohnendsten Plattformen für Echtgeld-Glücksspiel. Die Kombination aus gebührenfreien Krypto-Transaktionen, einem massiven 1500€ Willkommenspaket, bis zu 25% wöchentlichem Cashback und einem deutschsprachigen 24\/7-Support macht uns zur ersten Wahl für anspruchsvolle Casino-Fans in Deutschland. Registrieren Sie sich noch heute in wenigen einfachen Schritten, tätigen Sie Ihre erste Einzahlung und tauchen Sie ein in die aufregende Wild-West-Welt unseres Casinos!<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wie kann ich meinen Willkommensbonus im Rodeoslot Casino beanspruchen?",
+                            "answer": "Erstellen Sie Ihr Konto und tätigen Sie eine erste Einzahlung von mindestens 20€ über Visa, Mastercard oder Krypto. Ihr Bonus von bis zu 1500€ plus 250 Freispiele wird automatisch innerhalb weniger Minuten gutgeschrieben. Die faire Umsatzbedingung beträgt 35x. Unser deutscher 24\/7 Support hilft per Live-Chat jederzeit gerne weiter.\n"
+                        },
+                        {
+                            "title": "Welche Zahlungsmethoden stehen deutschen Spielern zur Verfügung?",
+                            "answer": "Wir akzeptieren eine Vielzahl absolut sicherer Zahlungsmethoden für Spieler aus Deutschland. Dazu gehören Kreditkarten (Visa, Mastercard), E-Wallets wie Skrill und Neteller sowie Banküberweisungen. Zudem sind wir ein Krypto-Casino und unterstützen Einzahlungen in Bitcoin, Ethereum, Litecoin und Tether komplett gebührenfrei.\n"
+                        },
+                        {
+                            "title": "Wie lange dauert eine Auszahlung von Gewinnen im Rodeoslot Casino?",
+                            "answer": "Nach erfolgreicher Verifizierung bearbeiten wir Krypto- und E-Wallet-Auszahlungen blitzschnell innerhalb von 0 bis 24 Stunden. Abhebungen via Banküberweisung oder Kreditkarte nehmen bankenbedingt 1 bis 3 Werktage in Anspruch. Das tägliche Auszahlungslimit liegt bei 1000€, kann aber durch unser VIP-Programm deutlich erhöht werden.\n"
+                        },
+                        {
+                            "title": "Ist das Casino in Deutschland lizenziert und sicher für Echtgeldspiele?",
+                            "answer": "Ja, wir operieren unter einer offiziellen internationalen Casino-Lizenz und halten uns an strengste Richtlinien. Unsere gesamte Plattform ist durch eine militärstarke 256-Bit-SSL-Verschlüsselung gesichert. Zudem werden alle unsere 7600+ Spiele regelmäßig von iTech Labs auf faires RNG-Verhalten und korrekte Auszahlungsquoten zertifiziert.\n"
+                        },
+                        {
+                            "title": "Kann ich die Casinospiele und das Live Casino auch auf meinem Handy spielen?",
+                            "answer": "Selbstverständlich! Unsere Plattform ist zu 100% für alle mobilen Endgeräte optimiert. Ganz ohne App-Download können Sie über Ihren iOS- oder Android-Browser auf über 7600 Slots und alle Live-Dealer-Spiele in HD-Qualität zugreifen. Auch alle Ein- und Auszahlungen funktionieren mobil blitzschnell und absolut fehlerfrei.\n"
+                        },
+                        {
+                            "title": "Was ist die Rodeo Arena und wie funktioniert das VIP-Programm?",
+                            "answer": "Unser VIP-Programm bietet 10 Level mit wachsenden Vorteilen wie höheren Auszahlungslimits und bis zu 25% wöchentlichem Cashback. In der Rodeo Arena können Sie zudem tägliche Missionen erfüllen, um spezielle Münzen zu sammeln. Diese tauschen Sie im internen Shop gegen umsatzfreie Boni, Freispiele oder direktes Echtgeld ein.\n"
+                        },
+                        {
+                            "title": "Welche Dokumente benötige ich für die Kontoverifizierung (KYC)?",
+                            "answer": "Für eine reibungslose Auszahlung benötigen wir eine Kopie Ihres gültigen Personalausweises oder Reisepasses zur Identitätsprüfung sowie einen aktuellen Adressnachweis (Kontoauszug oder Stromrechnung, nicht älter als 3 Monate). Die Überprüfung ist einmalig und in der Regel in unter 12 Stunden erfolgreich abgeschlossen.\n"
+                        },
+                        {
+                            "title": "Bieten Sie einen deutschsprachigen Kundenservice an?",
+                            "answer": "Ja, unser engagiertes Support-Team steht deutschen Spielern rund um die Uhr (24\/7\/365) zur Verfügung. Sie können uns jederzeit bequem über den Live-Chat auf der Website für sofortige Antworten kontaktieren oder uns eine E-Mail senden. VIP-Spieler erhalten zusätzlich einen persönlichen Account-Manager via WhatsApp oder Telegram.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://rodeoslot-online-de.com/
+Sitemap: https://rodeoslot-online-de.com/sitemap.xml

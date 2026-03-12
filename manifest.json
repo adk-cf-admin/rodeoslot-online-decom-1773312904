@@ -1,0 +1,19 @@
+{
+  "name": "Rodeoslot",
+  "short_name": "Rodeoslot",
+  "theme_color": "",
+  "background_color": "#27150B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773312086-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
